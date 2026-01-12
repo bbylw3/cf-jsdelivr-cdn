@@ -1,0 +1,5 @@
+name = "cf-jsdelivr-cdn"
+main = "src/worker.js"
+compatibility_date = "2025-01-11"
+
+workers_dev = true
